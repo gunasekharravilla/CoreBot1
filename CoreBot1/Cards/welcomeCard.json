@@ -1,0 +1,46 @@
+﻿{
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "type": "AdaptiveCard",
+  "version": "1.0",
+  "body": [
+    {
+      "type": "Image",
+      "url": "https://avatars.githubusercontent.com/u/53616269?v=4",
+      "size": "stretch"
+    },
+    {
+      "type": "TextBlock",
+      "spacing": "medium",
+      "size": "default",
+      "weight": "bolder",
+      "text": "Welcome to Gunasekhar's Bot Mawa😂😂❤!",
+      "wrap": true,
+      "maxLines": 0
+    },
+    {
+      "type": "TextBlock",
+      "size": "default",
+      "isSubtle": true,
+      "text": "Just Now my Boss Created me Don't ask me silly Questions Let me Enjoy my Childhood 🤣😎",
+      "wrap": true,
+      "maxLines": 0
+    }
+  ],
+  "actions": [
+    {
+      "type": "Action.OpenUrl",
+      "title": "Visit My Github",
+      "url": "https://github.com/gunasekharravilla"
+    },
+    {
+      "type": "Action.OpenUrl",
+      "title": "See How my boss is famous",
+      "url": "https://www.google.com/search?q=gunasekhar+ravilla&rlz=1C1CHBD_enIN778IN783&oq=gunasekhar+ravilla&aqs=chrome..69i57j69i60j69i61j69i60j69i65.5100j0j7&sourceid=chrome&ie=UTF-8"
+    },
+    {
+      "type": "Action.OpenUrl",
+      "title": "Have a look to my Boss LinkedIn",
+      "url": "https://www.linkedin.com/in/gunasekhar-ravilla-0a7258142/"
+    }
+  ]
+}
